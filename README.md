@@ -93,4 +93,14 @@ in `data/README.md`.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [soodoku/partisan_principled](https://github.com/soodoku/partisan_principled) — Two survey experiments on partisan affect, fair-minded opponents, and biased allies: research note and reproducible analysis.
+- [soodoku/dp_distortions](https://github.com/soodoku/dp_distortions) — Replication Data and Scripts for Deliberative Distortions
+- [soodoku/dp_misinformation](https://github.com/soodoku/dp_misinformation) — Deliberation and Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+- [soodoku/sophisticated_cynic](https://github.com/soodoku/sophisticated_cynic) — Is Cynicism Taken as Evidence of Political Sophistication? No.
+- [soodoku/partisan_pareto](https://github.com/soodoku/partisan_pareto) — Pareto Partisan: Are Partisans Willing to Bite Their Purse To Spite The Main Opposing Party?
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
