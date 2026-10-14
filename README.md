@@ -90,3 +90,7 @@ local build environments are excluded.
 The manuscript remains an unpublished working paper. The authors retain all
 rights under `LICENSE`; data access and provider restrictions are documented
 in `data/README.md`.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
